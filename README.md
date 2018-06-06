@@ -1,2 +1,3 @@
 # digit_recognizer
-Kaggle Competition
+
+In progress...
