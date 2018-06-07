@@ -9,4 +9,4 @@ Link: https://www.kaggle.com/c/digit-recognizer
 ## Files
 data-analysis-1: Creates csv files and contains analysis of the data given
 
-model-analysis-2: Tests simple multiple Keras models on the data
+model-analysis-2: Tests multiple simple Keras models on the relevant data
